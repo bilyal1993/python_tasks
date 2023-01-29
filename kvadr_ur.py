@@ -1,3 +1,4 @@
+print('Hello world')
 import math
 print('Введите коэффициент а:')
 a=int(input())
