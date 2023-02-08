@@ -1,2 +1,4 @@
-# -*- coding: utf-8 -*-
-print(2+1)
+print('Hello word')
+m=4
+if m>3 : print('assss')
+else: print('asd ')
